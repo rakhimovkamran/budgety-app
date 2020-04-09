@@ -1,37 +1,33 @@
-<div align="center">
-  <img width="200" height="200" src="https://vuejs.org/images/logo.png">
-  <h1>Arithmetic Trainer</h1>
-  <p>
-    This is simple web accountant that can write all increases and decreases of your budget.
-    I need help for done it. We need connect this application with database.
-  </p>
-  <p>Author: <a href="https://github.com/rakhimovkamran" target="_blank">Rakhimov Kamran</a> | <a href="https://linkedin/in/rakhimovkamran" target="_blank">LinkedIn</a></p>
-</div>
+# Budgety
+<p align="center">
+  <img alt='App Logo' src='https://i.ibb.co/2hRDJWL/budgety-logo.png'>
+</p>
 
+## Description
+**Budgety** application. This is **web-accountant**, which can write your **incomes** and **costs** , if you have **some money**, you will be able to **control your budget with this application**. That's so simple to use, just **write your income** and amount of this with description. It'll save your **budget automatically**. 
+## Tech Stack
 
-## Build Setup:
-npm install or yarn add
+ - **JavaScript ( Programming Language )**
+ - **VueJS ( Front-End Framework )**
+ - **SCSS ( Next Gen CSS )**
+ - **Webpack 4 ( Module Bundler )**
+ - **Babel ( Standarts Converter )**
+ - **Vuex ( State Managment Library for VueJS )**
+ ## Using ( NPM Scripts )
+ - **DEV :** This command will open application on ***dev*** mode
+ -  **BUILD :** This command will build application on ***prod*** mode
+ ## Screenshot
+<p align="center">
+  <img alt='App Screenshot' src='https://i.ibb.co/sHkG2Vd/screenshot-localhost-8081-2020-04-09-17-58-57.jpg'>
+</p>
 
-## Download repository:
-git clone https://github.com/rakhimovkamran/vuejs-budgety.git
+## Author
+### Name : Rakhimov Kamran
+### [Resume](https://drive.google.com/open?id=1qeT1X0zbppAx6XoV0mzIPFx_yT3TtpSQ)
+### <a href="mailto:rakhimovkamran@gmail.com">Mail Me</a>
 
-## Go to the app:
-cd vuejs-arithmetic-trainer
-
-## Install dependencies:
-npm install or yarn add
-
-## Server with hot reload at 
-http://localhost:8081/
-npm run dev
-
-## Output will be at dist/ folder
-npm run build
-
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+### Social Accounts
+ - #### [GitHub](https://github.com/rakhimovkamran)
+ - #### [LinkedIn](https://linkedin.com/in/rakhimovkamran)
+ - #### [Instagram](https://instagram.com/rakhimovkamran)
+ - #### [Twitter](https://twitter.com/rakhimovkamran)
